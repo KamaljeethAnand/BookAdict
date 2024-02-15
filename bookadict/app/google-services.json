@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "872913467112",
+    "project_id": "bookadict-d21dc",
+    "storage_bucket": "bookadict-d21dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:872913467112:android:a583c5f968883400e73b5d",
+        "android_client_info": {
+          "package_name": "com.example.bookadict"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "872913467112-i17k78hmg38jqd56r7e7rp5u24mm53su.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDg9_d7ZTp-MT67o6aWcHFw54YFlwJ2uts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "872913467112-i17k78hmg38jqd56r7e7rp5u24mm53su.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
